@@ -79,20 +79,7 @@ VIP に到達するも、流石に VIP にいる人は強く未 VIP に落ちた
 
 ## 2024 年 10 月 ついに魔境を卒業する
 
-スマメイトでボコボコにされた後、また VIP に戻ってきました。魔境卒業は 1 ヵ月ですんなりと到達しました。トプ魔と魔卒はそんなに差はないと感じました。トプ魔に到達したときの立ち回りのままでいけました。
-
-そしてレート 2000 越えのジョーカー使いのツバキさんに勝てたのが嬉しかったです。ファルコンダイブをたくさん通して勝ちました。
-
-https://www.youtube.com/watch?v=8PyOXnJn7Rw&t=5707
-
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/8PyOXnJn7Rw?start=5707" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen>
-</iframe>
+スマメイトでボコボコにされた後、また VIP に戻ってきました。魔境卒業は 1 ヵ月ですんなりと到達しました。トプ魔と魔卒はそんなに差はないと感じました。トプ魔に到達したときの立ち回りのままでいけました。レート 2000 の人にも勝てて成長を感じました。
 
 ## 2024 年 11 月 じょうぎぶファルコンと対戦
 

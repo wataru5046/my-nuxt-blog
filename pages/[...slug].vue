@@ -29,7 +29,7 @@ h3 {
 
 pre {
   background-color: #1e1e1e; /* ダーク背景 */
-  color: #dcdcdc;            /* 明るい文字色 */
+  color: #dcdcdc ;         /* 明るい文字色 */
   padding: 1rem;
   border-radius: 8px;
   overflow-x: auto;
@@ -42,5 +42,15 @@ pre {
 code {
   display: block;
   white-space: pre;
+}
+
+html pre.shiki code span,
+html code.shiki span {
+  color: #ffffff !important;  /* 文字色を白に上書き */
+}
+
+img {
+  max-width: 800px;
+  width: ;
 }
 </style>
