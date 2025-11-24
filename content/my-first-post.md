@@ -105,8 +105,6 @@ pic.twitter.com/v2fIbBs2US</a>
 &mdash; わたる (@aozora_kub) <a href="https://twitter.com/aozora_kub/status/1885875589938315318?ref_src=twsrc%5Etfw">
 February 2, 2025</a>
 </blockquote>
- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-</script>
 
 ## 2025 年 3 月～ 6 月 他キャラを VIP にいれる
 
@@ -135,8 +133,6 @@ pic.twitter.com/bX8obczOaf</a>
 &mdash; わたる (@aozora_kub) <a href="https://twitter.com/aozora_kub/status/1955299448411787618?ref_src=twsrc%5Etfw">
 August 12, 2025</a>
 </blockquote>
- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-</script>
 
 ## 今後の目標 レート 1600 宇宙最強
 
