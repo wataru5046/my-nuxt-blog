@@ -67,3 +67,9 @@ onMounted(async () => {
 
 
 ```
+
+上記のコードで下記のようにページの右下に inp の数値が表示されます。
+
+![説明文](/images/nuxt/inp-1.png)
+
+![説明文](/images/nuxt/inp-2.png)
