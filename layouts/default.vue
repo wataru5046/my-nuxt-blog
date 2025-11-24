@@ -1,7 +1,7 @@
 <template>
   <div class="layout">
     <header>
-      <h1>共通ヘッダー</h1>
+      <h1>わたログ</h1>
     </header>
     <main>
       <NuxtPage />
@@ -19,6 +19,10 @@ header {
   background: #333;
   color: white;
   padding: 10px;
+}
+
+h1 {
+  text-align: center;
 }
 
 
