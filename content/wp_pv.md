@@ -1,5 +1,6 @@
 ---
 title: "プラグインなしでwordpressで記事のPV数を取得する方法"
+description: "プラグインなしでwordpressで記事のPV数を取得する方法を解説します"
 date: "2025-09-14T17:47:54.329Z"
 ---
 

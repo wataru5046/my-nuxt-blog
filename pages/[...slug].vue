@@ -13,6 +13,31 @@ const route = useRoute();
 const { data } = await useAsyncData(route.path, () =>
   queryCollection("content").path(route.path).first(),
 );
+
+// ▼ data に合わせて meta を設定
+if (data.value) {
+  useHead({
+    title: data.value.title,
+    meta: [
+      {
+        name: "description",
+        content: data.value.description ?? "",
+      },
+      {
+        property: "og:title",
+        content: data.value.title,
+      },
+      {
+        property: "og:description",
+        content: data.value.description ?? "",
+      },
+      {
+        property: "og:type",
+        content: "article",
+      },
+    ],
+  });
+}
 </script>
 <style>
 h2 {

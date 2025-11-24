@@ -1,5 +1,6 @@
 ---
 title: "Google Apps Script（GAS）でjsonファイルを生成、ダウンロードできるようにする"
+description: "Google Apps Script（GAS）でjsonファイルを生成、ダウンロードできるようにする方法を解説します"
 date: "2025-09-23T14:23:19.922Z"
 ---
 
